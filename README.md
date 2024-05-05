@@ -5,6 +5,6 @@ Here is a simple Java game. We were inspired by popular game "Vector". Project w
 
 All graphics and design was created using Adobe Illustrator. Game is written with Java language. Game uses graphics, transitions and music.  
 
-You can see the report in files (in Ukrainian) and the video, which presents this game.  
+You can see the report in files (in Ukrainian).
 
 This project was done during education in Kyiv-Mohyla Acasemy.
